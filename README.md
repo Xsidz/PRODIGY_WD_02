@@ -16,7 +16,7 @@ This is a simple and user-friendly stopwatch web application built using HTML, C
 
 ## Demo
 
-You can see a live demo of this stopwatch web application here: [Stopwatch Demo](#insert_demo_link_here)
+You can see a live demo of this stopwatch web application here: [Stopwatch Demo](https://codepen.io/Siddhesh_/pen/PoXaLGJ) 
 
 ## Features
 
