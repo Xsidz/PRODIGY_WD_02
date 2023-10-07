@@ -48,6 +48,4 @@ function recordLap() {
     }
 }
 
-reset(); // Initialize the display
-
-// You can add further styling and customization to the CSS file as needed.
+reset(); 
